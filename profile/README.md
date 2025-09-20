@@ -1,4 +1,4 @@
-![Erebus](./images/Banner%20-%20Github%20-%201.png)
+![Erebus](./assets/Banner%20-%20Github%20-%201.png)
 
 <h1 align="center" style="font-size:2em; font-weight:bold;">
   <b>Erebus</b>

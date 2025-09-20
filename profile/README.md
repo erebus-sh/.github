@@ -6,6 +6,9 @@
 <p align="center">
   The real-time infrastructure at the edge.
 </p>
+<p align="center">
+  <a href="https://x.com/ErebusGlobe">X</a> · <a href="https://erebus.sh">Website</a> · <a href="https://github.com/erebus-sh/erebus/issues">Issues</a>
+</p>
 
 <p align="center">
   <code>bun install @erebus-sh/sdk@latest</code>

@@ -40,7 +40,7 @@ You’re free to use it, self-host it, or build on top of it.
 
 You can support the project by:
 
-- [Contributing to the source code](./CONTRIBUTING.md)
+- [Contributing to the source code](https://github.com/erebus-sh/erebus/blob/master/CONTRIBUTING.md)
 - [Suggesting new features or reporting issues](https://github.com/erebus-sh/erebus/issues)
 
 ## Security
